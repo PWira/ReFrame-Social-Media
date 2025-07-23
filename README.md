@@ -4,7 +4,7 @@
 A simple social media layout made with flutter.
 This program was made for local only (same network)
 
-##Contributor :<br>
+#Contributor :<br>
 Muhammad Alif Al Fajra<br>
 Ferdiansyah Massa<br>
 Joelyanto Fernando<br>
