@@ -1,4 +1,4 @@
-# FLutter Simple Social Media
+# Flutter Simple Social Media
 (REPOSITORY WAS NOT UPDATED SINCE 2023)
 
 A simple social media layout made with flutter.
