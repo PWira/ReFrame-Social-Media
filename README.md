@@ -4,11 +4,11 @@
 A simple social media layout made with flutter.
 This program was made for local only (same network)
 
-Contributor <br>
-Muhammad Alif Al Fajra
-Ferdiansyah Massa
-Joelyanto Fernando
-Raja Dadan Sambora
+##Contributor :<br>
+Muhammad Alif Al Fajra<br>
+Ferdiansyah Massa<br>
+Joelyanto Fernando<br>
+Raja Dadan Sambora<br>
 
 # INSTALLATION
 
