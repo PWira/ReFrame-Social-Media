@@ -1,8 +1,8 @@
-# Flutter Simple Social Media
-(REPOSITORY WAS NOT UPDATED SINCE 2023)
+# ReFrame Social Media
 
-A simple social media layout made with flutter.
-This program was made for local only (same network)
+ReFrame is an innovative social media framework built to streamline the development of social networking applications. Using Flutter as the frontend, it offers a highly responsive, visually appealing, and cross-platform interface that runs seamlessly on Android, iOS, and web. Its component-driven design makes it easy for developers to customize the user interface and implement interactive features such as real-time posts, friend systems, and notifications without extensive groundwork.
+
+On the backend, ReFrame leverages PHP and MySQL to handle server logic, user data, and social interactions efficiently. The framework supports RESTful APIs for smooth frontend-backend communication and includes robust authentication for user security. Designed with scalability and maintainability in mind, SocialSphere empowers developers to build fast, secure, and easily extensible social media platforms that meet the demands of modern users.
 
 ## Contributor :<br>
 Muhammad Alif Al Fajra<br>
